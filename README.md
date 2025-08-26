@@ -9,7 +9,7 @@ Welcome to my GitHub Profile! 🚀
 ## 😀 About Me  
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">  
 
-I am **Kalp Trivedi**, currently pursuing my **MSc in Data Science** at **BPP University, London**. I hold a **Bachelor’s in Computer Science** from **Indus University**.  
+I am **Kalp Trivedi**, currently pursuing my **MSc in Data Science** at **Regent & BPP University, London**. I hold a **Bachelor’s in Computer Science** from **Indus University**.  
 
 My expertise spans **full-stack development, data analytics, cloud computing, and product security**. I have worked as a **Software Developer at CKC Cares (London)** and as a **Digital Analyst in YBI Foundation**, where I collaborated with teams to design scalable applications, optimize workflows, and deliver impactful solutions.  
 
