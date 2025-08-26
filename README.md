@@ -54,14 +54,6 @@ I have also completed internships in **React.js, Node.js, WooCommerce, and Shopi
 
 ---
 
-## 📊 GitHub Stats  
-![Kalp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalptrivedi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalptrivedi&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kalptrivedi&theme=radical)  
-
----
-
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=react&logoColor=white)](https://YOUR-PORTFOLIO-URL)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/kalp-trivedi/))   
 [![Email](https://img.shields.io/badge/Email-kalptrivedi2020%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:kalptrivedi2020@gmail.com)  
