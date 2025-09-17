@@ -1,59 +1,69 @@
-# Hi 👋, I'm Kalp Trivedi  
-Welcome to my GitHub Profile! 🚀  
-💻 Software Developer | 📊 Data Analyst | 🌐 AI & Emerging Tech Enthusiast  
+# 👋 Hi, I'm Kalp Trivedi
 
-🔥 I have a passion for building data-driven applications and solving real-world challenges with clean, efficient code. I’m always learning new technologies and refining my problem-solving skills.  
+Welcome to my GitHub! 🚀  
+💻 Software Developer | 📊 Data Analyst | 🌐 AI & Emerging Tech Enthusiast
+
+---
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+## About Me
+
+I'm **Kalp Trivedi**, currently pursuing an **MSc in Data Science** at **Regent & BPP University, London**. I hold a **Bachelor’s in Computer Science** from Indus University.
+
+My journey bridges **full-stack development, data analytics, cloud computing, and product security**. At CKC Cares (London) and YBI Foundation, I contributed as a **Software Developer** and **Digital Analyst**, collaborating on scalable solutions, workflow optimization, and business impact.
+
+I’ve completed internships in React.js, Node.js, WooCommerce, and Shopify development, and built projects across **data science, web apps, and business intelligence**.
 
 ---
 
-## 😀 About Me  
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">  
+## 🛠️ Skills & Tools
 
-I am **Kalp Trivedi**, currently pursuing my **MSc in Data Science** at **Regent & BPP University, London**. I hold a **Bachelor’s in Computer Science** from **Indus University**.  
-
-My expertise spans **full-stack development, data analytics, cloud computing, and product security**. I have worked as a **Software Developer at CKC Cares (London)** and as a **Digital Analyst in YBI Foundation**, where I collaborated with teams to design scalable applications, optimize workflows, and deliver impactful solutions.  
-
-I have also completed internships in **React.js, Node.js, WooCommerce, and Shopify development**, along with hands-on projects in **data science, web applications, and business intelligence dashboards**.  
-
----
-
-## 👀 Technical Skills  
-**Languages:** Python, JavaScript, SQL, NoSQL, Java, C, C++  
-**Frameworks:** React.js, Node.js, Express.js, Spring Boot  
-**Web Technologies:** HTML, CSS, REST APIs  
-**Data Tools:** Power BI, Tableau, Excel, Pandas, NumPy, Matplotlib  
-**Version Control:** Git, GitHub  
-**Cloud:** AWS (Foundational), Google Cloud (basics, Intermediate)  
-**Developer Tools:** VS Code, Postman, Docker, Jenkins, MySQL Workbench  
+- **Languages:** Python, JavaScript, SQL, NoSQL, Java, C, C++
+- **Frameworks:** React.js, Node.js, Express.js, Spring Boot
+- **Web:** HTML, CSS, REST APIs
+- **Data & Analysis:** Power BI, Tableau, Excel, Pandas, NumPy, Matplotlib
+- **Version Control:** Git, GitHub
+- **Cloud:** AWS (Foundational), Google Cloud (Intermediate)
+- **Dev Tools:** VS Code, Postman, Docker, Jenkins, MySQL Workbench
 
 ---
 
-## 🎓 Events & Certifications  
-- APAC Software Engineering (AWS)  
-- Data Science & Machine Learning (YBI Foundation)  
-- Node.js & React.js Development  
-- WordPress Development (Indus University)  
-- Shopify Development (CKC Cares)  
-- Python Basics & AI/ML Workshops
-- J.P. Morgan Quantitative Research Completion Certificate
-- Power BI Essentials Training – LinkedIn Learning (CPE Accredited)
-- Data Analysis, Manipulation & Presentation – Deloitte
+## 🌟 Featured Projects
+
+- [`KFS_Loan_Data_Analytics`](https://github.com/KalpTrivediii/KFS_Loan_Data_Analytics): Data-driven analytics on loan datasets using Python & BI tools.
+- [`lensbury-club-management`](https://github.com/KalpTrivediii/lensbury-club-management): Full-stack club management web app.
+- [`bank-locker-system`](https://github.com/KalpTrivediii/bank-locker-system): Secure, scalable digital locker management.
+- [`kalptrivedi`](https://github.com/KalpTrivediii/kalptrivedi): My personal portfolio and projects.
 
 ---
 
-## 🏆 Achievements  
-- Awarded for **Communication Excellence**  
-- Completed multiple academic & technical internships  
-- Built **Websites** (React + Node.js) with interactive puzzles  
+## 🎓 Certifications & Awards
+
+- APAC Software Engineering (AWS)
+- Data Science & Machine Learning (YBI Foundation)
+- Node.js & React.js Development
+- Shopify & WordPress Development
+- J.P. Morgan Quantitative Research Certificate
+- Power BI Essentials (LinkedIn Learning, Deloitte)
+- Awarded for **Communication Excellence**
+- Academic & technical internships
 
 ---
 
-## 💼 Co-Curricular Activities  
-- Member of **Rotaract Club** (Indus University)  
-- Content Head – **Computer Engineering Student Association**  
+## 🏅 Activities & Interests
+
+- Rotaract Club Member (Indus University)
+- Content Head, Computer Engineering Student Association
+- Building interactive web apps and data dashboards
+- Lifelong tech learner & puzzle enthusiast
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/kalp-trivedi/))   
-[![Email](https://img.shields.io/badge/Email-kalptrivedi2020%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:kalptrivedi2020@gmail.com)  
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalp-trivedi/)
+[![Email](https://img.shields.io/badge/Email-kalptrivedi2020%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:kalptrivedi2020@gmail.com)
+
+---
+
+> “Turning data into actionable insights, one project at a time.”✨
